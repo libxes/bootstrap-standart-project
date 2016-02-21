@@ -1,0 +1,22 @@
+.btn-success {
+    color: #fff;
+    background-color: #BB1D8A;
+    border-color: #710755;
+}
+
+
+@media (max-width: 768px) {
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+
+}
+
+@media (min-width: 1200px) {
+	
+}
